@@ -20,7 +20,7 @@
 
 | Date | Day | Slug | Keyword | Category | Status |
 |---|---|---|---|---|---|
-| 2026-04-08 | Wed | what-happens-after-arrest-huntington-beach | what happens after an arrest in Huntington Beach | Bail Process | ⬜ |
+| 2026-04-08 | Wed | what-happens-after-arrest-huntington-beach | what happens after an arrest in Huntington Beach | Bail Process | ✅ published |
 | 2026-04-09 | Thu | how-bail-bonds-work-huntington-beach | how do bail bonds work in Huntington Beach | Bail Bonds 101 | ⬜ |
 | 2026-04-10 | Fri | how-much-is-bail-huntington-beach | how much is bail in Orange County | Bail Amounts | ⬜ |
 | 2026-04-11 | Sat | how-to-get-someone-out-of-jail-huntington-beach | how to get someone out of jail in Huntington Beach | Release Process | ⬜ |
