@@ -22,11 +22,11 @@
 |---|---|---|---|---|---|
 | 2026-04-08 | Wed | what-happens-after-arrest-huntington-beach | what happens after an arrest in Huntington Beach | Bail Process | ✅ published |
 | 2026-04-09 | Thu | how-bail-bonds-work-huntington-beach | how do bail bonds work in Huntington Beach | Bail Bonds 101 | ✅ published |
-| 2026-04-10 | Fri | how-much-is-bail-huntington-beach | how much is bail in Orange County | Bail Amounts | ⬜ |
+| 2026-04-10 | Fri | how-much-is-bail-huntington-beach | how much is bail in Orange County | Bail Amounts | ✅ published |
 | 2026-04-11 | Sat | how-to-get-someone-out-of-jail-huntington-beach | how to get someone out of jail in Huntington Beach | Release Process | ⬜ |
 | 2026-04-12 | Sun | domestic-violence-bail-huntington-beach | domestic violence bail bonds Huntington Beach | DV Bail | ⬜ |
 | 2026-04-13 | Mon | dui-bail-bonds-huntington-beach | DUI bail bonds Huntington Beach | DUI | ⬜ |
-| 2026-04-14 | Tue | felony-bail-bonds-huntington-beach | felony bail bonds Huntington Beach | Felony | ⬜ |
+| 2026-04-14 | Tue | 2026-04-14-huntington-beach-bail-bonds | huntington beach bail bonds (24 hr bondsman) | Hub Post | ✅ published |
 | 2026-04-15 | Wed | drug-possession-bail-huntington-beach | drug possession bail Huntington Beach | Drug Charges | ⬜ |
 | 2026-04-16 | Thu | bail-someone-out-at-night-huntington-beach | can you bail someone out at night in Huntington Beach | 24/7 Bail | ⬜ |
 | 2026-04-17 | Fri | how-long-bail-takes-huntington-beach | how long does it take to bail someone out of Huntington Beach PD Jail | Timeline | ⬜ |
