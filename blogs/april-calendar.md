@@ -29,7 +29,7 @@
 | 2026-04-14 | Tue | 2026-04-14-huntington-beach-bail-bonds | huntington beach bail bonds (24 hr bondsman) | Hub Post | ✅ published |
 | 2026-04-15 | Wed | drug-possession-bail-huntington-beach | drug possession bail Huntington Beach | Drug Charges | ⬜ |
 | 2026-04-16 | Thu | bail-someone-out-at-night-huntington-beach | can you bail someone out at night in Huntington Beach | 24/7 Bail | ⬜ |
-| 2026-04-17 | Fri | how-long-bail-takes-huntington-beach | how long does it take to bail someone out of Huntington Beach PD Jail | Timeline | ⬜ |
+| 2026-04-17 | Fri | how-long-bail-takes-huntington-beach | how long does it take to bail someone out of Huntington Beach PD Jail | Timeline | ✅ published |
 | 2026-04-18 | Sat | bail-bond-cost-huntington-beach | how much does a bail bondsman charge in Huntington Beach | Costs | ⬜ |
 | 2026-04-19 | Sun | bail-bond-payment-plan-huntington-beach | bail bond payment plan Huntington Beach | Payment Plans | ⬜ |
 | 2026-04-20 | Mon | jail-booking-process-huntington-beach | jail booking process at Huntington Beach PD Jail | Jail Process | ⬜ |
